@@ -1,6 +1,6 @@
 - My name is Steven
 - I can be interested or curious in anything, if given the right point of view. 
-- I'm currently learning Javascript, but I've been looking into PHP.
+- I'm currently learning Javascript, but I've Typescript has been catching my eye lately.
 - If you want to learn with me, reach out, maybe we can motivate each other. 
 
 <!---
